@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical" android:background="@drawable/cenario2">
+
+	<TextView android:id="@+id/tvTitulo" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:gravity="center"
+		android:text="Fail!" android:textColor="#000000"
+		android:textAppearance="?android:attr/textAppearanceLarge" />
+
+	<TextView android:id="@+id/tvClick" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:gravity="center"
+		android:text="TextView quantidade de clicks" android:textColor="#000000"
+		android:textAppearance="?android:attr/textAppearanceMedium" />
+
+	<TextView android:id="@+id/tvTempo" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:gravity="center"
+		android:text="TextView tempo" android:textColor="#000000"
+		android:textAppearance="?android:attr/textAppearanceMedium" />	<TableRow android:id="@+id/tableRow1" android:layout_width="fill_parent"		android:layout_height="wrap_content" android:layout_weight="0.27"		android:gravity="center_horizontal|center_vertical">
+
+		<Button android:id="@+id/btnTentarNovamente"
+			android:layout_width="100dip" android:layout_height="60dip"
+			android:text="Jogar novamente" />
+		<Button android:id="@+id/btnMenu" android:layout_width="100dip"
+			android:layout_height="60dip" android:text="Menu" />
+
+	</TableRow>
+
+</LinearLayout>

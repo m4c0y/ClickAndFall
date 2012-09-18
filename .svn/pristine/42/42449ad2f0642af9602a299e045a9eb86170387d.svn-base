@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Game>
+	<Record jogador="A" clicks="1" tempo="1000" />
+	<Record jogador="B" clicks="2" tempo="2000" />
+	<Record jogador="C" clicks="2" tempo="3000" />
+	<Record jogador="D" clicks="4" tempo="1000" />
+	<Record jogador="E" clicks="4" tempo="2000" />
+</Game>
