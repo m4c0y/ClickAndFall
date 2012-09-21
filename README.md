@@ -8,10 +8,10 @@ Foi desenvolvido para Android, e utilizando AndEngine para controlar a física e 
 
 ## Desenvolvedores
 
-Denis Denadai Carraro
-Fabricio Oliveira da Silva
-Gabriel Freire
-Thiago Seiji Haraguchi
+*Denis Denadai Carraro
+*Fabricio Oliveira da Silva
+*Gabriel Freire
+*Thiago Seiji Haraguchi
 
 ## Atenção
 
